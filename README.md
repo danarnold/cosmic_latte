@@ -1,3 +1,5 @@
+**this is an archive of haystackandroid/cosmic_latte. the user seems to have been deleted. as such, there are many broken links to other repositories owned by that user in the README.**
+
 <table><tbody align='center'>
 
 <tr><td colspan='8'><h1>cosmic_latte</h1></td></tr>
